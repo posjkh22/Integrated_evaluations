@@ -1,0 +1,162 @@
+
+[bm]
+th1
+num_item: 1
+num_element: 9
+[0] 58805
+th2
+num_item: 1
+num_element: 9
+[0] 60947
+th3
+num_item: 1
+num_element: 9
+[0] 71884
+th4
+num_item: 1
+num_element: 9
+[0] 87564
+
+[crc]
+th1
+num_item: 1
+num_element: 9
+[0] 18371
+th2
+num_item: 1
+num_element: 9
+[0] 31564
+th3
+num_item: 1
+num_element: 9
+[0] 34991
+th4
+num_item: 1
+num_element: 9
+[0] 49666
+
+[dj]
+th1
+num_item: 1
+num_element: 9
+[0] 41150
+th2
+num_item: 1
+num_element: 9
+[0] 45425
+th3
+num_item: 1
+num_element: 9
+[0] 50225
+th4
+num_item: 1
+num_element: 9
+[0] 53089
+
+[ds]
+th1
+num_item: 1
+num_element: 9
+[0] 291
+th2
+num_item: 1
+num_element: 9
+[0] 350
+th3
+num_item: 1
+num_element: 9
+[0] 430
+th4
+num_item: 1
+num_element: 9
+[0] 469
+
+[fft]
+th1
+num_item: 1
+num_element: 9
+[0] 34000
+th2
+num_item: 1
+num_element: 9
+[0] 34239
+th3
+num_item: 1
+num_element: 9
+[0] 35392
+th4
+num_item: 1
+num_element: 9
+[0] 35894
+
+[pt]
+th1
+num_item: 1
+num_element: 9
+[0] 5423
+th2
+num_item: 1
+num_element: 9
+[0] 5853
+th3
+num_item: 1
+num_element: 9
+[0] 6242
+th4
+num_item: 1
+num_element: 9
+[0] 6682
+
+[sha]
+th1
+num_item: 1
+num_element: 9
+[0] 8998
+th2
+num_item: 1
+num_element: 9
+[0] 9794
+th3
+num_item: 1
+num_element: 9
+[0] 10193
+th4
+num_item: 1
+num_element: 9
+[0] 11302
+
+[ss]
+th1
+num_item: 1
+num_element: 9
+[0] 3391
+th2
+num_item: 1
+num_element: 9
+[0] 4106
+th3
+num_item: 1
+num_element: 9
+[0] 4032
+th4
+num_item: 1
+num_element: 9
+[0] 3877
+
+[ws]
+th1
+num_item: 1
+num_element: 9
+[0] 5839
+th2
+num_item: 1
+num_element: 9
+[0] 6730
+th3
+num_item: 1
+num_element: 9
+[0] 6794
+th4
+num_item: 1
+num_element: 9
+[0] 7468
